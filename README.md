@@ -37,7 +37,7 @@ intelligent security solution for modern application.
 
 ## Video Clip
 <a href="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/V-Security.mp4"> Smart Security System </a><br>
-<video width="279" height="420" alt="Solar" src="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/V-Security.mp4" />
+<video width="279" height="420" alt="Solar" src="https://github.com/user-attachments/assets/9ae77fe4-786c-46d8-8815-1b4af55ddf3d" />
 
 ## Report
 #### You can access the report from the below link attached
