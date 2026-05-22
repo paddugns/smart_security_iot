@@ -33,12 +33,12 @@ intelligent security solution for modern application.
 | 7 | Telegram application |
 
 ## Block Diagram
-<img width="420" height="279" alt="Plasma" src="" />
+<img width="420" height="279" alt="Plasma" src="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/B-Security.png" />
 
 ## Video Clip
-<a href="https://github.com/paddugns/solar_control-monitor_iot/blob/a4aa1cea2c763510260fc64ea8431cc2da3e3e4c/V-Solar.mp4"> Smart Security System </a><br>
-<video width="279" height="420" alt="Solar" src="https://github.com/user-attachments/assets/f4b174ac-017a-465d-9324-ddfec5043fb7" />
+<a href="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/V-Security.mp4"> Smart Security System </a><br>
+<video width="279" height="420" alt="Solar" src="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/V-Security.mp4" />
 
 ## Report
 #### You can access the report from the below link attached
-[Report.pdf](https://github.com/paddugns/solar_control-monitor_iot/blob/a4aa1cea2c763510260fc64ea8431cc2da3e3e4c/R-Solar.pdf)<br>
+[Report.pdf](https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/R-Security.pdf)<br>
